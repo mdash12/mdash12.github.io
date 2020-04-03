@@ -36,5 +36,3 @@ Positon of Responsibility
 ======
 #### Jan 2020-Present: Teaching Assistant
   * Foundations of Computer Science
-  * Duties include: Recitation sessions, grading and evalutation of howeworks and exams for a class of 120 students
-  * Supervisor: Prof. Pramod Ganapathi
