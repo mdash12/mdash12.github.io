@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Madhusmita Dash"
   avatar           : "profile.png"
-  bio              : "MS Grad, Computer Science at Stony Brook University"
+  bio              : "MS,Computer Science at Stony Brook University"
   location         : "Stony Brook, New York"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
   email            :  madash@cs.stonybrook.edu
   researchgate     : 
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/madhusmita.dash.18"
+  facebook         : "madhusmita.dash.18"
   foursquare       :
   github           : "mdash12"
   google_plus      :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mdash1995/"
+  linkedin         : "mdash1995"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
