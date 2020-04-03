@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science, Stony Brook University, 2019-2020 (expected)
+* BTech in Computer Science, IIT Dhanbad, 2013-2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2017- Aug 2019: Software Engineer~Senior Software Engineer
+  * Samsung R&D Institute, Bangalore, India
+  * Duties included: Design, development and testing of Samsung's propreitary protocol SAP for device-to-wearable communication. 
+  * Supervisor: Balaji V Ramalingam
+ 
+* Summer 2016: Research Assistant
+  * University of Calgary, Alberta
+  * Duties included: Developed a web-based dashboard for visualizing oil-drilling data sets, perform data analysis and model for classification of oil drilling depths.
+  * Supervisor: Dr. Behrouz Far
+  
+ * Summer 2015: Android Developer Intern
+  * Reverie Language Technologies, Bangalore
+  * Duties included: Developed a chat application to send mood based smileys/text based on phone shake intensity, integrated this shake feature in their proprietary keyboard, “Swalekh”.  
+  * Supervisor: Chandan Bhagavati
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Languages
+  * C, C++, Python, JAVA
   
-Talks
+Positon of Responsibility
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Jan 2020-Present: Teaching Assistant
+  * Foundations of Computer Science
+  * Duties include: Recitation sessions, grading and evalutation of howeworks and exams for a class of 120 students
+  * Supervisor: Prof. Pramod Ganapathi
