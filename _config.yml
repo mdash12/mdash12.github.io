@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Madhusmita Dash"
-  avatar           : "mypic.png"
+  avatar           : "images/mypic.png"
   bio              : "MS Student, Computer Science at Stony Brook University"
   location         : "Stony Brook, New York"
   employer         :
